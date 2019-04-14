@@ -1,3 +1,6 @@
+/*This C program was made by second year IT-student Jenny Enckell of NTIG Södertörn*/
+
+//To do:
 //Move the random functions into a .h file, non-global variable?? Make function run again every time called and delete previous output Number.
 //Make a list of wins to losses, displayed in end
 //Split up win to loss in cases
