@@ -1,3 +1,4 @@
+/*This C program was made by second year IT-student Jenny Enckell of NTIG Södertörn*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
